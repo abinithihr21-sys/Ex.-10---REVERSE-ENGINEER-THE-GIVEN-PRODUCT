@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 9.9.2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="836" height="816" alt="image" src="https://github.com/user-attachments/assets/8196c22b-a51f-4be1-995c-1ee9e281f63c" />
+
 
 ### Output:
+<img width="1046" height="380" alt="image" src="https://github.com/user-attachments/assets/1cf5a518-5e2c-4986-ae9b-b243fd12196b" />
+<img width="1052" height="587" alt="image" src="https://github.com/user-attachments/assets/b782ad17-d46d-473c-9f4f-dae7abf06029" />
 
 
-### Name:
-### Register Number:
+
+### Name:Abinithi.H
+### Register Number:212225240003
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
